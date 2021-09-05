@@ -60,12 +60,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.seo-image, .social-media-image {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.online-rep-image {
     float: right;
     margin-left: 25px;
 }
